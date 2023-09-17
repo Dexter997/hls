@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000
-http://protv.fun:80/play/live.php?mac=00:1a:79:11:22:31&stream=45588&extension=m3u8&play_token=play
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2000000
+http://fullloadedtv.com:8080/live/walkman3382@yahoo.com/k9DXbXWVoY/509093.m3u8
