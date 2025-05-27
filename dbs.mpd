@@ -24,6 +24,7 @@
       <Representation width="640" height="360" sar="1:1" frameRate="25000/1000" scanType="progressive" id="Video3" codecs="avc1.64001f" bandwidth="831986" />
       <Representation width="854" height="480" sar="1:1" frameRate="25000/1000" scanType="progressive" id="Video4" codecs="avc1.64001f" bandwidth="1329510" />
       <Representation width="1024" height="576" sar="1:1" frameRate="25000/1000" scanType="progressive" id="Video5" codecs="avc1.64001f" bandwidth="1774832" />
+      <Representation width="1920" height="1080" sar="1:1" frameRate="25000/1000" scanType="interlaced" id="Video7" codecs="avc1.640029" bandwidth="5572477" />
     </AdaptationSet>
     <AdaptationSet mimeType="video/mp4" codecs="avc1.64001f" id="1" contentType="video" segmentAlignment="true" maxWidth="256" maxHeight="144" maxFrameRate="3/6">
       <EssentialProperty schemeIdUri="http://dashif.org/guidelines/trickmode" value="0" />
@@ -410,4 +411,4 @@
       <Representation id="Ttml2" codecs="stpp" bandwidth="10000" />
     </AdaptationSet>
   </Period>
-<BaseURL>https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/08238861-5f87-5894-a74f-21baefed1423/default_primary.mpd</BaseURL></MPD>
+<BaseURL>https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/08238861-5f87-5894-a74f-21baefed1423/</BaseURL></MPD>
