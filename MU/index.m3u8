@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.0.2 (Linux;Android 10; fqwfh4) ExoPlayerLib/2.15.1
+#EXT-X-STREAM-INF:BANDWIDTH=4370178
+http://hdlocal.de:8080/live/cs22cs.suroot/4amFSTThYHGGS2223/4188.m3u8
